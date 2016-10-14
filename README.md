@@ -10,3 +10,5 @@ All should be in working order.  I couldn't decide on the best camera angle.
 
 I used a planet from the asset store with a movement script that came with it so it rotates on it's own as well as with the movement of the mouse.
 
+I also changed the gravity from .02 to .2 to increase its impact on nearby spheres.
+
